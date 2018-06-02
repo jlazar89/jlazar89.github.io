@@ -1,0 +1,647 @@
+[
+
+	{
+		"id" : "Game 1",
+		"date": "Thu 14.06.2018 21:00/Thu 14.06.18 9:00 PM",
+		"round": "Round 1",
+		"team1": "Russia",
+		"team2": "Saudi Arabia",
+		"score": "- : -",
+		"details": "" 
+	},
+
+	{
+		"id" : "Game 2",
+		"date": "Fri 15.06.2018 18:00/Fri 15.06.18 6:00 PM",
+		"round": "Round 1",
+		"team1": "Egypt",
+		"team2": "Uruguay",
+		"score": "- : -",
+		"details": ""
+	},
+
+	{
+		"id" : "Game 3",
+		"date": "Fri 15.06.2018 21:00/Fri 15.06.18 9:00 PM",
+		"round": "Round 1",
+		"team1": "Morocco",
+		"team2": "Iran",
+		"score": "- : -",
+		"details": ""
+	},
+
+	{
+		"id" : "Game 4",
+		"date": "Sat 16.06.2018 00:00/Sat 16.06.18 12:00 AM",
+		"round": "Round 1",
+		"team1": "Portugal",
+		"team2": "Spain",
+		"score": "- : -",
+		"details": ""
+	},
+
+	{
+		"id" : "Game 5",
+		"date": "Sat 16.06.2018 16:00/Sat 16.06.18 4:00 PM",
+		"round": "Round 1",
+		"team1": "France",
+		"team2": "Australia",
+		"score": "- : -",
+		"details": ""
+	},
+
+	{
+		"id" : "Game 6",
+		"date": "Sat 16.06.2018 19:00/Sat 16.06.18 7:00 PM",
+		"round": "Round 1",
+		"team1": "Argentina",
+		"team2": "Iceland",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 7",
+		"date": "Sat 16.06.2018 22:00/Sat 16.06.18 10:00 PM",
+		"round": "Round 1",
+		"team1": "Peru",
+		"team2": "Denmark",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 8",
+		"date": "Sun 17.06.2018 01:00/Sun 17.06.18 1:00 AM",
+		"round": "Round 1",
+		"team1": "Croatia",
+		"team2": "Nigeria",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 9",
+		"date": "Sun 17.06.2018 18:00/Sun 17.06.18 6:00 PM",
+		"round": "Round 1",
+		"team1": "Costa Rica",
+		"team2": "Serbia",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 10",
+		"date": "Sun 17.06.2018 21:00/Sun 17.06.18 9:00 PM",
+		"round": "Round 1",
+		"team1": "Germany",
+		"team2": "Mexico",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 11",
+		"date": "Mon 18.06.2018 00:00/Mon 18.06.18 12:00 AM",
+		"round": "Round 1",
+		"team1": "Brazil",
+		"team2": "Switzerland",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 12",
+		"date": "Mon 18.06.2018 18:00/Mon 18.06.18 6:00 PM",
+		"round": "Round 1",
+		"team1": "Sweden",
+		"team2": "South Korea",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 13",
+		"date": "Mon 18.06.2018 21:00/Mon 18.06.18 9:00 PM",
+		"round": "Round 1",
+		"team1": "Belgium",
+		"team2": "Panama",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 14",
+		"date": "Tue 19.06.2018 00:00/Tue 19.06.18 12:00 AM",
+		"round": "Round 1",
+		"team1": "Tunisia",
+		"team2": "England",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 15",
+		"date": "Tue 19.06.2018 18:00/Tue 19.06.18 6:00 PM",
+		"round": "Round 1",
+		"team1": "Colombia",
+		"team2": "Japan",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 16",
+		"date": "Tue 19.06.2018 21:00/Tue 19.06.18 9:00 PM",
+		"round": "Round 1",
+		"team1": "Poland",
+		"team2": "Senegal",
+		"score": "- : -",
+		"details": ""
+	},
+	
+
+	{
+		"id" : "Game 17",
+		"date": "Wed 20.06.2018 00:00/Wed 20.06.18 12:00 AM",
+		"round": "Round 2",
+		"team1": "Russia",
+		"team2": "Egypt",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 18",
+		"date": "Wed 20.06.2018 18:00/Wed 20.06.18 6:00 PM",
+		"round": "Round 2",
+		"team1": "Portugal",
+		"team2": "Morocco",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 19",
+		"date": "Wed 20.06.2018 21:00/Wed 20.06.18 9:00 PM",
+		"round": "Round 2",
+		"team1": "Uruguay",
+		"team2": "Saudi Arabia",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 20",
+		"date": "Thu 21.06.2018 00:00/Thu 21.06.18 12:00 AM",
+		"round": "Round 2",
+		"team1": "Iran",
+		"team2": "Spain",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 21",
+		"date": "Thu 21.06.2018 18:00/Thu 21.06.18 6:00 PM",
+		"round": "Round 2",
+		"team1": "Denmark",
+		"team2": "Australia",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 22",
+		"date": "Thu 21.06.2018 21:00/Thu 21.06.18 9:00 PM",
+		"round": "Round 2",
+		"team1": "France",
+		"team2": "Peru",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 23",
+		"date": "Fri 22.06.2018 00:00/Fri 22.06.18 12:00 AM",
+		"round": "Round 2",
+		"team1": "Argentina",
+		"team2": "Croatia",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 24",
+		"date": "Fri 22.06.2018 18:00/Fri 22.06.18 6:00 PM",
+		"round": "Round 2",
+		"team1": "Brazil",
+		"team2": "Costa Rica",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 25",
+		"date": "Fri 22.06.2018 21:00/Fri 22.06.18 9:00",
+		"round": "Round 2",
+		"team1": "Nigeria",
+		"team2": "Iceland",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 26",
+		"date": "Sat 23.06.2018 00:00/Sat 23.06.18 12:00 AM",
+		"round": "Round 2",
+		"team1": "Serbia",
+		"team2": "Switzerland",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 27",
+		"date": "Sat 23.06.2018 18:00/Sat 23.06.18 6:00 PM",
+		"round": "Round 2",
+		"team1": "Belgium",
+		"team2": "Tunisia",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 28",
+		"date": "Sat 23.06.2018 21:00/Sat 23.06.18 9:00 PM",
+		"round": "Round 2",
+		"team1": "South Korea",
+		"team2": "Mexico",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 29",
+		"date": "Sun 24.06.2018 00:00/Sun 24.06.18 12:00 AM",
+		"round": "Round 2",
+		"team1": "Germany",
+		"team2": "Sweden",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 30",
+		"date": "Sun 24.06.2018 18:00/Sun 24.06.18 6:00 PM",
+		"round": "Round 2",
+		"team1": "England",
+		"team2": "Panama",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 31",
+		"date": "Sun 24.06.2018 21:00/Sun 24.06.18 9:00 PM",
+		"round": "Round 2",
+		"team1": "Japan",
+		"team2": "Senegal",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 32",
+		"date": "Mon 25.06.2018 00:00/Mon 25.06.18 12:00 AM",
+		"round": "Round 2",
+		"team1": "Poland",
+		"team2": "Colombia",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 33",
+		"date": "Mon 25.06.2018 20:00/Mon 25.06.18 8:00 PM",
+		"round": "Round 3",
+		"team1": "Saudi Arabia",
+		"team2": "Egypt",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 34",
+		"date": "Mon 25.06.2018 20:00/Mon 25.06.18 8:00 PM",
+		"round": "Round 3",
+		"team1": "Uruguay",
+		"team2": "Russia",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 35",
+		"date": "Tue 26.06.2018 00:00/Tue 26.06.18 12:00 AM",
+		"round": "Round 3",
+		"team1": "Iran",
+		"team2": "Portugal",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 36",
+		"date": "Tue 26.06.2018 00:00/Tue 26.06.18 12:00 AM",
+		"round": "Round 3",
+		"team1": "Spain",
+		"team2": "Morocco",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 37",
+		"date": "Tue 26.06.2018 20:00/Tue 26.06.18 8:00 PM",
+		"round": "Round 3",
+		"team1": "Australia",
+		"team2": "Peru",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 38",
+		"date": "Tue 26.06.2018 20:00/Tue 26.06.18 8:00 PM",
+		"round": "Round 3",
+		"team1": "Denmark",
+		"team2": "France",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 39",
+		"date": "Wed 27.06.2018 00:00/Wed 27.06.18 12:00 AM",
+		"round": "Round 3",
+		"team1": "Iceland",
+		"team2": "Croatia",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 40",
+		"date": "Wed 27.06.2018 00:00/Wed 27.06.18 12:00 AM",
+		"round": "Round 3",
+		"team1": "Nigeria",
+		"team2": "Argentina",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 41",
+		"date": "Wed 27.06.2018 20:00/Wed 27.06.18 8:00 PM",
+		"round": "Round 3",
+		"team1": "Mexico",
+		"team2": "Sweden",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 42",
+		"date": "Wed 27.06.2018 20:00/Wed 27.06.18 8:00 PM",
+		"round": "Round 3",
+		"team1": "South Korea",
+		"team2": "Germany",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 43",
+		"date": "Thu 28.06.2018 00:00/Thu 28.06.18 12:00 AM",
+		"round": "Round 3",
+		"team1": "Serbia",
+		"team2": "Brazil",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 44",
+		"date": "Thu 28.06.2018 00:00/Thu 28.06.18 12:00 AM",
+		"round": "Round 3",
+		"team1": "Switzerland",
+		"team2": "Costa Rica",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 45",
+		"date": "Thu 28.06.2018 20:00/Thu 28.06.18 8:00 PM",
+		"round": "Round 3",
+		"team1": "Japan",
+		"team2": "Poland",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 46",
+		"date": "Thu 28.06.2018 20:00/Thu 28.06.18 8:00 PM",
+		"round": "Round 3",
+		"team1": "Senegal",
+		"team2": "Colombia",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 47",
+		"date": "Fri 29.06.2018 00:00/Fri 29.06.18 12:00 AM",
+		"round": "Round 3",
+		"team1": "England",
+		"team2": "Belgium",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 48",
+		"date": "Fri 29.06.2018 00:00/Fri 29.06.18 12:00 AM",
+		"round": "Round 3",
+		"team1": "Panama",
+		"team2": "Tunisia",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	
+	{
+		"id" : "Game 49",
+		"date": "Sat 30.06.2018 20:00/Sat 30.06.18 8:00 PM",
+		"round": "Round of 16",
+		"team1": "1st Group C",
+		"team2": "2nd Group D",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 50",
+		"date": "Sun 01.07.2018 00:00/Sun 01.07.18 12:00 AM",
+		"round": "Round of 16",
+		"team1": "1st Group A",
+		"team2": "2nd Group B",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 51",
+		"date": "Sun 01.07.2018 20:00/Sun 01.07.18 8:00 PM",
+		"round": "Round of 16",
+		"team1": "1st Group B",
+		"team2": "2nd Group A",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 52",
+		"date": "Mon 02.07.2018 00:00/Mon 02.07.18 12:00 AM",
+		"round": "Round of 16",
+		"team1": "1st Group D",
+		"team2": "2nd Group C",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 53",
+		"date": "Mon 02.07.2018 20:00/Mon 02.07.18 8:00 PM",
+		"round": "Round of 16",
+		"team1": "1st Group E",
+		"team2": "2nd Group F",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 54",
+		"date": "Tue 03.07.2018 00:00/Tue 03.07.18 12:00 AM",
+		"round": "Round of 16",
+		"team1": "1st Group G",
+		"team2": "2nd Group H",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 55",
+		"date": "Tue 03.07.2018 20:00/Tue 03.07.18 8:00 PM",
+		"round": "Round of 16",
+		"team1": "1st Group F",
+		"team2": "2nd Group E",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 56",
+		"date": "Wed 04.07.2018 00:00/Wed 04.07.18 12:00 AM",
+		"round": "Round of 16",
+		"team1": "1st Group H",
+		"team2": "2nd Group G",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	
+	{
+		"id" : "Game 57",
+		"date": "Fri 06.07.2018 20:00/Fri 06.07.18 8:00 PM",
+		"round": "Quarter-finals",
+		"team1": "Winner R. of 16",
+		"team2": "Winner R. of 16",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 58",
+		"date": "Sat 07.07.2018 00:00/Sat 07.07.18 12:00 AM",
+		"round": "Quarter-finals",
+		"team1": "Winner R. of 16",
+		"team2": "Winner R. of 16",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 59",
+		"date": "Sat 07.07.2018 20:00/Sat 07.07.18 8:00 PM",
+		"round": "Quarter-finals",
+		"team1": "Winner R. of 16",
+		"team2": "Winner R. of 16",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 60",
+		"date": "Sun 08.07.2018 20:00/Sun 08.07.18 8:00 PM",
+		"round": "Quarter-finals",
+		"team1": "Winner R. of 16",
+		"team2": "Winner R. of 16",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	
+	{
+		"id" : "Game 61",
+		"date": "Wed 11.07.2018 00:00/Wed 11.07.18 12:00 AM",
+		"round": "Semi-finals",
+		"team1": "Winner QF2",
+		"team2": "Winner QF1",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 62",
+		"date": "Thu 12.07.2018 00:00/Thu 12.07.18 12:00 AM",
+		"round": "Semi-finals",
+		"team1": "Winner QF4",
+		"team2": "Winner QF3",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 63",
+		"date": "Sat 14.07.2018 00:00/Sat 14.07.18 12:00 AM",
+		"round": "3rd Place Playoff",
+		"team1": "Loser SF1",
+		"team2": "Loser SF2",
+		"score": "- : -",
+		"details": ""
+	},
+	
+	{
+		"id" : "Game 64",
+		"date": "Sun 15.07.2018 00:00/Sun 15.07.18 12:00 AM",
+		"round": "Final",
+		"team1": "Winner SF1",
+		"team2": "Winner SF2",
+		"score": "- : -",
+		"details": ""
+	}
+
+]
