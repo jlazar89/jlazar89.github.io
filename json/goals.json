@@ -1,0 +1,193 @@
+[
+	{
+		"name": "Argentina",
+		"goal": "0",
+		"tag": "T Argentina"
+	},
+	
+	{
+		"name": "Australia",
+		"goal": "0",
+		"tag": "T Australia"
+	},
+	
+	{
+		"name": "Belgium",
+		"goal": "0",
+		"tag": "T Belgium"
+	},
+	
+	{
+		"name": "Brazil",
+		"goal": "0",
+		"tag": "T Brazil"
+	},
+	
+	{
+		"name": "Colombia",
+		"goal": "0",
+		"tag": "T Colombia"
+	},
+	
+	{
+		"name": "Costa Rica",
+		"goal": "0",
+		"tag": "T Costa Rica"
+	},
+	
+	{
+		"name": "Croatia",
+		"goal": "0",
+		"tag": "T Croatia"
+	},
+	
+	{
+		"name": "Denmark",
+		"goal": "0",
+		"tag": "T Denmark"
+	},
+	
+	{
+		"name": "Egypt",
+		"goal": "0",
+		"tag": "T Egypt"
+	},
+	
+	{
+		"name": "England",
+		"goal": "0",
+		"tag": "T England"
+	},
+	
+	{
+		"name": "France",
+		"goal": "0",
+		"tag": "T France"
+	},
+	
+	{
+		"name": "Germany",
+		"goal": "0",
+		"tag": "T Germany"
+	},
+	
+	{
+		"name": "Iceland",
+		"goal": "0",
+		"tag": "T Iceland"
+	},
+	
+	{
+		"name": "Iran",
+		"goal": "0",
+		"tag": "T Iran"
+	},
+	
+	{
+		"name": "Japan",
+		"goal": "0",
+		"tag": "T Japan"
+	},
+	
+	{
+		"name": "Mexico",
+		"goal": "0",
+		"tag": "T Mexico"
+	},
+	
+	{
+		"name": "Morocco",
+		"goal": "0",
+		"tag": "T Morocco"
+	},
+	
+	{
+		"name": "Nigeria",
+		"goal": "0",
+		"tag": "T Nigeria"
+	},
+	
+	{
+		"name": "Panama",
+		"goal": "0",
+		"tag": "T Panama"
+	},
+	
+	{
+		"name": "Peru",
+		"goal": "0",
+		"tag": "T Peru"
+	},
+	
+	{
+		"name": "Poland",
+		"goal": "0",
+		"tag": "T Poland"
+	},
+	
+	{
+		"name": "Portugal",
+		"goal": "0",
+		"tag": "T Portugal"
+	},
+	
+	{
+		"name": "Russia",
+		"goal": "0",
+		"tag": "T Russia"
+	},
+	
+	{
+		"name": "Saudi Arabia",
+		"goal": "0",
+		"tag": "T Saudi Arabia"
+	},
+	
+	{
+		"name": "Senegal",
+		"goal": "0",
+		"tag": "T Senegal"
+	},
+	
+	{
+		"name": "Serbia",
+		"goal": "0",
+		"tag": "T Serbia"
+	},
+	
+	{
+		"name": "South Korea",
+		"goal": "0",
+		"tag": "T South Korea"
+	},
+	
+	{
+		"name": "Spain",
+		"goal": "0",
+		"tag": "T Spain"
+	},
+	
+	{
+		"name": "Sweden",
+		"goal": "0",
+		"tag": "T Sweden"
+	},
+	
+	{
+		"name": "Switzerland",
+		"goal": "0",
+		"tag": "T Switzerland"
+	},
+	
+	{
+		"name": "Tunisia",
+		"goal": "0",
+		"tag": "T Tunisia"
+	},
+	
+	{
+		"name": "Uruguay",
+		"goal": "0",
+		"tag": "T Uruguay"
+	}
+]
