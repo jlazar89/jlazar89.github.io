@@ -7,7 +7,7 @@
 		"team1": "Russia",
 		"team2": "Saudi Arabia",
 		"score": "5 : 0",
-		"status": "",
+		"status": "Finish",
 		"details": "91' Golovin (Russia) Scores\n91' Chershev(Russia) Scores\n71' Artem (Russia) Scores\n43' Chershev(Russia) Scores!!\n12' Gazinskii (Russia) Scores!!" 
 	},
 
@@ -18,7 +18,7 @@
 		"team1": "Egypt",
 		"team2": "Uruguay",
 		"score": "0 : 1",
-		"status": "",
+		"status": "Finish",
 		"details": "90' Gimenez (Uruguay) Scores"
 	},
 
@@ -29,7 +29,7 @@
 		"team1": "Morocco",
 		"team2": "Iran",
 		"score": "0 : 1",
-		"status": "",
+		"status": "Finish",
 		"details": "90+5' Aziz Bouhaddouz (Iran) Scores"
 	},
 
