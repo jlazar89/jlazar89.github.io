@@ -7,6 +7,7 @@
 		"team1": "Russia",
 		"team2": "Saudi Arabia",
 		"score": "5 : 0",
+		"status": "",
 		"details": "91' Golovin (Russia) Scores\n91' Chershev(Russia) Scores\n71' Artem (Russia) Scores\n43' Chershev(Russia) Scores!!\n12' Gazinskii (Russia) Scores!!" 
 	},
 
@@ -17,6 +18,7 @@
 		"team1": "Egypt",
 		"team2": "Uruguay",
 		"score": "0 : 1",
+		"status": "",
 		"details": "90' Gimenez (Uruguay) Scores"
 	},
 
@@ -27,6 +29,7 @@
 		"team1": "Morocco",
 		"team2": "Iran",
 		"score": "0 : 1",
+		"status": "",
 		"details": "90+5' Aziz Bouhaddouz (Iran) Scores"
 	},
 
@@ -37,6 +40,7 @@
 		"team1": "Portugal",
 		"team2": "Spain",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 
@@ -47,6 +51,7 @@
 		"team1": "France",
 		"team2": "Australia",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 
@@ -57,6 +62,7 @@
 		"team1": "Argentina",
 		"team2": "Iceland",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -67,6 +73,7 @@
 		"team1": "Peru",
 		"team2": "Denmark",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -77,6 +84,7 @@
 		"team1": "Croatia",
 		"team2": "Nigeria",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -87,6 +95,7 @@
 		"team1": "Costa Rica",
 		"team2": "Serbia",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -97,6 +106,7 @@
 		"team1": "Germany",
 		"team2": "Mexico",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -107,6 +117,7 @@
 		"team1": "Brazil",
 		"team2": "Switzerland",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -117,6 +128,7 @@
 		"team1": "Sweden",
 		"team2": "South Korea",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -127,6 +139,7 @@
 		"team1": "Belgium",
 		"team2": "Panama",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -137,6 +150,7 @@
 		"team1": "Tunisia",
 		"team2": "England",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -147,6 +161,7 @@
 		"team1": "Colombia",
 		"team2": "Japan",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -157,6 +172,7 @@
 		"team1": "Poland",
 		"team2": "Senegal",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -168,6 +184,7 @@
 		"team1": "Russia",
 		"team2": "Egypt",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -178,6 +195,7 @@
 		"team1": "Portugal",
 		"team2": "Morocco",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -188,6 +206,7 @@
 		"team1": "Uruguay",
 		"team2": "Saudi Arabia",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -198,6 +217,7 @@
 		"team1": "Iran",
 		"team2": "Spain",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -208,6 +228,7 @@
 		"team1": "Denmark",
 		"team2": "Australia",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -218,6 +239,7 @@
 		"team1": "France",
 		"team2": "Peru",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -228,6 +250,7 @@
 		"team1": "Argentina",
 		"team2": "Croatia",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -238,6 +261,7 @@
 		"team1": "Brazil",
 		"team2": "Costa Rica",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -248,6 +272,7 @@
 		"team1": "Nigeria",
 		"team2": "Iceland",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -258,6 +283,7 @@
 		"team1": "Serbia",
 		"team2": "Switzerland",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -268,6 +294,7 @@
 		"team1": "Belgium",
 		"team2": "Tunisia",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -278,6 +305,7 @@
 		"team1": "South Korea",
 		"team2": "Mexico",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -288,6 +316,7 @@
 		"team1": "Germany",
 		"team2": "Sweden",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -298,6 +327,7 @@
 		"team1": "England",
 		"team2": "Panama",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -308,6 +338,7 @@
 		"team1": "Japan",
 		"team2": "Senegal",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -318,6 +349,7 @@
 		"team1": "Poland",
 		"team2": "Colombia",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -328,6 +360,7 @@
 		"team1": "Saudi Arabia",
 		"team2": "Egypt",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -338,6 +371,7 @@
 		"team1": "Uruguay",
 		"team2": "Russia",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -348,6 +382,7 @@
 		"team1": "Iran",
 		"team2": "Portugal",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -358,6 +393,7 @@
 		"team1": "Spain",
 		"team2": "Morocco",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -368,6 +404,7 @@
 		"team1": "Australia",
 		"team2": "Peru",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -378,6 +415,7 @@
 		"team1": "Denmark",
 		"team2": "France",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -388,6 +426,7 @@
 		"team1": "Iceland",
 		"team2": "Croatia",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -398,6 +437,7 @@
 		"team1": "Nigeria",
 		"team2": "Argentina",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -408,6 +448,7 @@
 		"team1": "Mexico",
 		"team2": "Sweden",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -418,6 +459,7 @@
 		"team1": "South Korea",
 		"team2": "Germany",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -428,6 +470,7 @@
 		"team1": "Serbia",
 		"team2": "Brazil",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -438,6 +481,7 @@
 		"team1": "Switzerland",
 		"team2": "Costa Rica",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -448,6 +492,7 @@
 		"team1": "Japan",
 		"team2": "Poland",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -458,6 +503,7 @@
 		"team1": "Senegal",
 		"team2": "Colombia",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -468,6 +514,7 @@
 		"team1": "England",
 		"team2": "Belgium",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -478,6 +525,7 @@
 		"team1": "Panama",
 		"team2": "Tunisia",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -489,6 +537,7 @@
 		"team1": "1st Group C",
 		"team2": "2nd Group D",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -499,6 +548,7 @@
 		"team1": "1st Group A",
 		"team2": "2nd Group B",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -509,6 +559,7 @@
 		"team1": "1st Group B",
 		"team2": "2nd Group A",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -519,6 +570,7 @@
 		"team1": "1st Group D",
 		"team2": "2nd Group C",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -529,6 +581,7 @@
 		"team1": "1st Group E",
 		"team2": "2nd Group F",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -539,6 +592,7 @@
 		"team1": "1st Group G",
 		"team2": "2nd Group H",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -549,6 +603,7 @@
 		"team1": "1st Group F",
 		"team2": "2nd Group E",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -559,6 +614,7 @@
 		"team1": "1st Group H",
 		"team2": "2nd Group G",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -570,6 +626,7 @@
 		"team1": "Winner R. of 16",
 		"team2": "Winner R. of 16",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -580,6 +637,7 @@
 		"team1": "Winner R. of 16",
 		"team2": "Winner R. of 16",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -590,6 +648,7 @@
 		"team1": "Winner R. of 16",
 		"team2": "Winner R. of 16",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -600,6 +659,7 @@
 		"team1": "Winner R. of 16",
 		"team2": "Winner R. of 16",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -611,6 +671,7 @@
 		"team1": "Winner QF2",
 		"team2": "Winner QF1",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -621,6 +682,7 @@
 		"team1": "Winner QF4",
 		"team2": "Winner QF3",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -631,6 +693,7 @@
 		"team1": "Loser SF1",
 		"team2": "Loser SF2",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	},
 	
@@ -641,6 +704,7 @@
 		"team1": "Winner SF1",
 		"team2": "Winner SF2",
 		"score": "- : -",
+		"status": "",
 		"details": ""
 	}
 
