@@ -40,7 +40,7 @@
 		"team1": "Portugal",
 		"team2": "Spain",
 		"score": "3 : 3",
-		"status": "Live",
+		"status": "Finish",
 		"details": "88' C Ronaldo (Portugal) Scores\n55' Nacho (Spain) Scores\n55' Diego Costa (Spain) Scores\n44' C Ronaldo (Portugal) Scores\n24' Diego Costa (Spain) Socres\n4' C Ronaldo (Portugal) Scores"
 	},
 
@@ -51,7 +51,7 @@
 		"team1": "France",
 		"team2": "Australia",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 
