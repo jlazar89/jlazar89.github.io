@@ -7,7 +7,7 @@
 	
 	{
 		"name": "Australia",
-		"goal": "0",
+		"goal": "1",
 		"tag": "T Australia"
 	},
 	
@@ -61,7 +61,7 @@
 	
 	{
 		"name": "France",
-		"goal": "0",
+		"goal": "2",
 		"tag": "T France"
 	},
 	
