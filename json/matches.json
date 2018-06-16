@@ -73,7 +73,7 @@
 		"team1": "Peru",
 		"team2": "Denmark",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Live",
 		"details": ""
 	},
 	
@@ -84,7 +84,7 @@
 		"team1": "Croatia",
 		"team2": "Nigeria",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
