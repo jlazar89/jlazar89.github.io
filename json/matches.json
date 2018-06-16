@@ -50,9 +50,9 @@
 		"round": "Round 1",
 		"team1": "France",
 		"team2": "Australia",
-		"score": "- : -",
-		"status": "Next",
-		"details": ""
+		"score": "2 : 1",
+		"status": "Finish",
+		"details": "80' Paul Pogba (France) Scores\n62'(P) Mike Jedinak (Australia) scores\n58' Antoine Greizmann (France) Scores"
 	},
 
 	{
@@ -61,9 +61,9 @@
 		"round": "Round 1",
 		"team1": "Argentina",
 		"team2": "Iceland",
-		"score": "- : -",
-		"status": "Pending",
-		"details": ""
+		"score": "1 : 1",
+		"status": "Live",
+		"details": "23' Alfreo Finnbogason(Iceland) Scores\n19' Sergio Aguero(Argentina) Scores"
 	},
 	
 	{
