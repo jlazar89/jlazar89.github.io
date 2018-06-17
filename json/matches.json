@@ -72,9 +72,9 @@
 		"round": "Round 1",
 		"team1": "Peru",
 		"team2": "Denmark",
-		"score": "- : -",
-		"status": "Live",
-		"details": ""
+		"score": "0 : 1",
+		"status": "Finish",
+		"details": "59' Yussuf Poulsen (Denmark) Scores"
 	},
 	
 	{
@@ -83,9 +83,9 @@
 		"round": "Round 1",
 		"team1": "Croatia",
 		"team2": "Nigeria",
-		"score": "- : -",
-		"status": "Next",
-		"details": ""
+		"score": "2 : 0",
+		"status": "Finish",
+		"details": "71' (P) Luka Modric (Croatia) Scores\n32' Oghenekaro Etebo (Own Goal)"
 	},
 	
 	{
@@ -94,9 +94,9 @@
 		"round": "Round 1",
 		"team1": "Costa Rica",
 		"team2": "Serbia",
-		"score": "- : -",
-		"status": "Pending",
-		"details": ""
+		"score": "0 : 1",
+		"status": "Finish",
+		"details": "56' Alexander Kolarov (Serbia) Scores"
 	},
 	
 	{
@@ -106,7 +106,7 @@
 		"team1": "Germany",
 		"team2": "Mexico",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Live",
 		"details": ""
 	},
 	
