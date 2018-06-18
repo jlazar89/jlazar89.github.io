@@ -139,7 +139,7 @@
 		"team1": "Belgium",
 		"team2": "Panama",
 		"score": "- : -",
-		"status": "Next",
+		"status": "Live",
 		"details": ""
 	},
 	
@@ -150,7 +150,7 @@
 		"team1": "Tunisia",
 		"team2": "England",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
