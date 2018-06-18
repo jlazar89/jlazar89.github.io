@@ -116,9 +116,9 @@
 		"round": "Round 1",
 		"team1": "Brazil",
 		"team2": "Switzerland",
-		"score": "- : -",
-		"status": "Next",
-		"details": ""
+		"score": "1 : 1",
+		"status": "Finish",
+		"details": "50' Steven Zuber (Switzerland) Scores\n20' Philippe Coutinho (Brazil) Scores"
 	},
 	
 	{
@@ -128,7 +128,7 @@
 		"team1": "Sweden",
 		"team2": "South Korea",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
