@@ -161,7 +161,7 @@
 		"team1": "Colombia",
 		"team2": "Japan",
 		"score": "1 : 2",
-		"status": "Live",
+		"status": "Finish",
 		"details": "73' Osako (Japan) Scores\n39' J.Quintero (Colombia) Scores\n6' Shinji  Kagawa(Japan) Scores"
 	},
 	
@@ -172,7 +172,7 @@
 		"team1": "Poland",
 		"team2": "Senegal",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
