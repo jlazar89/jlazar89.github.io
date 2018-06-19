@@ -172,7 +172,7 @@
 		"team1": "Poland",
 		"team2": "Senegal",
 		"score": "- : -",
-		"status": "Next",
+		"status": "Live",
 		"details": ""
 	},
 	
@@ -184,7 +184,7 @@
 		"team1": "Russia",
 		"team2": "Egypt",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
