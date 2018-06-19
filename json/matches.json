@@ -149,9 +149,9 @@
 		"round": "Round 1",
 		"team1": "Tunisia",
 		"team2": "England",
-		"score": "- : -",
-		"status": "Next",
-		"details": ""
+		"score": "1 : 2",
+		"status": "Finish",
+		"details": "90+1'Henry Kane (England) Scores\n35' Ferjani Sassi (Tunisia) Scores\n11' Henry Kane (England) Scores"
 	},
 	
 	{
@@ -161,7 +161,7 @@
 		"team1": "Colombia",
 		"team2": "Japan",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
