@@ -49,7 +49,7 @@
 	
 	{
 		"name": "Egypt",
-		"goal": "0",
+		"goal": "1",
 		"tag": "T Egypt"
 	},
 	
@@ -133,7 +133,7 @@
 	
 	{
 		"name": "Russia",
-		"goal": "5",
+		"goal": "8",
 		"tag": "T Russia"
 	},
 	
