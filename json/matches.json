@@ -195,7 +195,7 @@
 		"team1": "Portugal",
 		"team2": "Morocco",
 		"score": "- : -",
-		"status": "Next",
+		"status": "Live",
 		"details": ""
 	},
 	
@@ -206,7 +206,7 @@
 		"team1": "Uruguay",
 		"team2": "Saudi Arabia",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
