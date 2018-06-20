@@ -183,9 +183,9 @@
 		"round": "Round 2",
 		"team1": "Russia",
 		"team2": "Egypt",
-		"score": "- : -",
-		"status": "Next",
-		"details": ""
+		"score": "3 : 1",
+		"status": "Finish",
+		"details": "73'(P) M. Salah (Egypt) Scores\n62' Dzyuba (Russa) Scores\n59' Chersev (Russa) Scores\n47'(OG) A.Fathi"
 	},
 	
 	{
@@ -195,7 +195,7 @@
 		"team1": "Portugal",
 		"team2": "Morocco",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
