@@ -239,7 +239,7 @@
 		"team1": "France",
 		"team2": "Peru",
 		"score": "- : -",
-		"status": "Next",
+		"status": "Live",
 		"details": ""
 	},
 	
@@ -250,7 +250,7 @@
 		"team1": "Argentina",
 		"team2": "Croatia",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
