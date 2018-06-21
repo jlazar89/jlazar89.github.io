@@ -216,9 +216,9 @@
 		"round": "Round 2",
 		"team1": "Iran",
 		"team2": "Spain",
-		"score": "- : -",
-		"status": "Next",
-		"details": ""
+		"score": "0 : 1",
+		"status": "Finish",
+		"details": "54' Diego Costa (Spain) Scores"
 	},
 	
 	{
@@ -228,7 +228,7 @@
 		"team1": "Denmark",
 		"team2": "Australia",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
