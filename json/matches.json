@@ -261,7 +261,7 @@
 		"team1": "Brazil",
 		"team2": "Costa Rica",
 		"score": "- : -",
-		"status": "Next",
+		"status": "Live",
 		"details": ""
 	},
 	
@@ -272,7 +272,7 @@
 		"team1": "Nigeria",
 		"team2": "Iceland",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
