@@ -249,9 +249,9 @@
 		"round": "Round 2",
 		"team1": "Argentina",
 		"team2": "Croatia",
-		"score": "- : -",
-		"status": "Next",
-		"details": ""
+		"score": "0 : 3",
+		"status": "Finish",
+		"details": "90+1' Ivan Rakitić(Croatia) Scores\n80' Luka Modrić (Croatia) Scores\n58' Ante Rebić (Croatia) Scores"
 	},
 	
 	{
@@ -261,7 +261,7 @@
 		"team1": "Brazil",
 		"team2": "Costa Rica",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
