@@ -326,9 +326,9 @@
 		"round": "Round 2",
 		"team1": "England",
 		"team2": "Panama",
-		"score": "1 : 0",
-		"status": "Live",
-		"details": "8' John Stones (England) Scores"
+		"score": "6 : 1",
+		"status": "Finish",
+		"details": "78' Felipe Baloy (England) Scores\n60' Harry Kane (England) Scores\n45'(P) Harry Kane (England) Scores\n40' John Stones (England) Scores\n24' Jesse Lingard (England) Scores\n22'(P) Harry Kane (England) Scores\n8' John Stones (England) Scores"
 	},
 	
 	{
@@ -338,7 +338,7 @@
 		"team1": "Japan",
 		"team2": "Senegal",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
