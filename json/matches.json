@@ -337,9 +337,9 @@
 		"round": "Round 2",
 		"team1": "Japan",
 		"team2": "Senegal",
-		"score": "0 : 1",
-		"status": "Live",
-		"details": "11' Sadio Mane (Senegal) Scores"
+		"score": "2 : 2",
+		"status": "Finish",
+		"details": "74' Keisuke Honda (Japan) Scorfes\n71' Moussa Wague (Senegal) Scores\n34' Takashi Inui (Japan) Scorfes\n11' Sadio Mane (Senegal) Scores"
 	},
 	
 	{
@@ -349,7 +349,7 @@
 		"team1": "Poland",
 		"team2": "Colombia",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
