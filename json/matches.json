@@ -348,9 +348,9 @@
 		"round": "Round 2",
 		"team1": "Poland",
 		"team2": "Colombia",
-		"score": "- : -",
-		"status": "Next",
-		"details": ""
+		"score": "0 : 3",
+		"status": "Finish",
+		"details": "75' Juan Cuadrado (Columbia) Scores\n70' Radamel Falcao (Columbia) Scores\n40' Yerry Mina (Columbia) Scores"
 	},
 	
 	{
@@ -360,7 +360,7 @@
 		"team1": "Saudi Arabia",
 		"team2": "Egypt",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
