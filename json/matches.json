@@ -360,7 +360,7 @@
 		"team1": "Saudi Arabia",
 		"team2": "Egypt",
 		"score": "1 : 1",
-		"status": "Live",
+		"status": "Finish",
 		"details": "45' Salman Al-Fara (Saudi Arabia) Scores\n22' M.Salah (Egypt) Scores"
 	},
 	
@@ -371,7 +371,7 @@
 		"team1": "Uruguay",
 		"team2": "Russia",
 		"score": "3 : 0",
-		"status": "Live",
+		"status": "Finish",
 		"details": "90' Edinson Cavani (Uruguay) Scores\n23' D laxalt(Uruguay) Scores\n10' Luis Suarez (Uruguay) Scores"
 	},
 	
@@ -382,7 +382,7 @@
 		"team1": "Iran",
 		"team2": "Portugal",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
@@ -393,7 +393,7 @@
 		"team1": "Spain",
 		"team2": "Morocco",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
