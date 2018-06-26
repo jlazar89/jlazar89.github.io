@@ -79,7 +79,7 @@
 	
 	{
 		"name": "Iran",
-		"goal": "1",
+		"goal": "2",
 		"tag": "T Iran"
 	},
 	
@@ -97,7 +97,7 @@
 	
 	{
 		"name": "Morocco",
-		"goal": "0",
+		"goal": "2",
 		"tag": "T Morocco"
 	},
 	
@@ -127,7 +127,7 @@
 	
 	{
 		"name": "Portugal",
-		"goal": "4",
+		"goal": "5",
 		"tag": "T Portugal"
 	},
 	
@@ -163,7 +163,7 @@
 	
 	{
 		"name": "Spain",
-		"goal": "4",
+		"goal": "6",
 		"tag": "T Spain"
 	},
 	

@@ -381,9 +381,9 @@
 		"round": "Round 3",
 		"team1": "Iran",
 		"team2": "Portugal",
-		"score": "- : -",
-		"status": "Next",
-		"details": ""
+		"score": "1 : 1",
+		"status": "Finish",
+		"details": "90' Karim Ansarifard (Iran) Scores\n45' Ricardo Quaresma (Portugal) Scores"
 	},
 	
 	{
@@ -392,9 +392,9 @@
 		"round": "Round 3",
 		"team1": "Spain",
 		"team2": "Morocco",
-		"score": "- : -",
-		"status": "Next",
-		"details": ""
+		"score": "2 : 2",
+		"status": "Finish",
+		"details": "90' Iago Aspas (Spian) Scores\n81' Youssef En-Nesyri  (Morocco) Scores\n19' Isoc (Spain) Scores\n14' Khalid Boutaib (Morocco) Scores"
 	},
 	
 	{
@@ -404,7 +404,7 @@
 		"team1": "Australia",
 		"team2": "Peru",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
@@ -415,7 +415,7 @@
 		"team1": "Denmark",
 		"team2": "France",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
@@ -545,8 +545,8 @@
 		"id" : "Game 50",
 		"date": "Sun 01.07.2018 00:00/Sun 01.07.18 12:00 AM",
 		"round": "Round of 16",
-		"team1": "1st Group A",
-		"team2": "2nd Group B",
+		"team1": "Uruguay",
+		"team2": "Portugal",
 		"score": "- : -",
 		"status": "Pending",
 		"details": ""
@@ -556,8 +556,8 @@
 		"id" : "Game 51",
 		"date": "Sun 01.07.2018 20:00/Sun 01.07.18 8:00 PM",
 		"round": "Round of 16",
-		"team1": "1st Group B",
-		"team2": "2nd Group A",
+		"team1": "Spain",
+		"team2": "Russia",
 		"score": "- : -",
 		"status": "Pending",
 		"details": ""
