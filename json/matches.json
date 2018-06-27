@@ -470,7 +470,7 @@
 		"team1": "Serbia",
 		"team2": "Brazil",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
@@ -481,7 +481,7 @@
 		"team1": "Switzerland",
 		"team2": "Costa Rica",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
@@ -579,7 +579,7 @@
 		"date": "Mon 02.07.2018 20:00/Mon 02.07.18 8:00 PM",
 		"round": "Round of 16",
 		"team1": "1st Group E",
-		"team2": "2nd Group F",
+		"team2": "Mexico",
 		"score": "- : -",
 		"status": "Pending",
 		"details": ""
@@ -600,7 +600,7 @@
 		"id" : "Game 55",
 		"date": "Tue 03.07.2018 20:00/Tue 03.07.18 8:00 PM",
 		"round": "Round of 16",
-		"team1": "1st Group F",
+		"team1": "Sweden",
 		"team2": "2nd Group E",
 		"score": "- : -",
 		"status": "Pending",
