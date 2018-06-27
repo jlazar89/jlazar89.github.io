@@ -425,9 +425,9 @@
 		"round": "Round 3",
 		"team1": "Iceland",
 		"team2": "Croatia",
-		"score": "- : -",
-		"status": "Next",
-		"details": ""
+		"score": "1 : 2",
+		"status": "Finish",
+		"details": "90' Ivan Perisic (Croatia) Scores\n76'(P) Gylfi Sigurdsson\n53' Milan Badelj (Croatia) Scores"
 	},
 	
 	{
@@ -436,9 +436,9 @@
 		"round": "Round 3",
 		"team1": "Nigeria",
 		"team2": "Argentina",
-		"score": "- : -",
-		"status": "Next",
-		"details": ""
+		"score": "1 : 2",
+		"status": "Finish",
+		"details": "86' Marcos Rojo (Argentina) Scores\n51'(P) Victor Moses\n14' Lionel Messi (Argentina) Scores"
 	},
 	
 	{
@@ -448,7 +448,7 @@
 		"team1": "Mexico",
 		"team2": "Sweden",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
@@ -459,7 +459,7 @@
 		"team1": "South Korea",
 		"team2": "Germany",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
@@ -535,7 +535,7 @@
 		"date": "Sat 30.06.2018 20:00/Sat 30.06.18 8:00 PM",
 		"round": "Round of 16",
 		"team1": "France",
-		"team2": "2nd Group D",
+		"team2": "Argentina",
 		"score": "- : -",
 		"status": "Pending",
 		"details": ""
@@ -567,7 +567,7 @@
 		"id" : "Game 52",
 		"date": "Mon 02.07.2018 00:00/Mon 02.07.18 12:00 AM",
 		"round": "Round of 16",
-		"team1": "1st Group D",
+		"team1": "Croatia",
 		"team2": "Denmark",
 		"score": "- : -",
 		"status": "Pending",
