@@ -469,9 +469,9 @@
 		"round": "Round 3",
 		"team1": "Serbia",
 		"team2": "Brazil",
-		"score": "- : -",
-		"status": "Next",
-		"details": ""
+		"score": "0 : 2",
+		"status": "Finish",
+		"details": "68' Paulinho (Brazil) Scores\n36' Paulinho (Brazil) Scores"
 	},
 	
 	{
@@ -480,9 +480,9 @@
 		"round": "Round 3",
 		"team1": "Switzerland",
 		"team2": "Costa Rica",
-		"score": "- : -",
-		"status": "Next",
-		"details": ""
+		"score": "2 : 2",
+		"status": "Finish",
+		"details": "90' Yann Sommer(OG) (Costa Rica) Scores\n88' Josip Drmic (Switzerland) Scores\n56' Kendall Waston (Costa Rica) Scores\n31' Blerim Dzemaili (Switzerland) Scores"
 	},
 	
 	{
@@ -492,7 +492,7 @@
 		"team1": "Japan",
 		"team2": "Poland",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
@@ -503,7 +503,7 @@
 		"team1": "Senegal",
 		"team2": "Colombia",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
@@ -578,7 +578,7 @@
 		"id" : "Game 53",
 		"date": "Mon 02.07.2018 20:00/Mon 02.07.18 8:00 PM",
 		"round": "Round of 16",
-		"team1": "1st Group E",
+		"team1": "Brazil",
 		"team2": "Mexico",
 		"score": "- : -",
 		"status": "Pending",
@@ -601,7 +601,7 @@
 		"date": "Tue 03.07.2018 20:00/Tue 03.07.18 8:00 PM",
 		"round": "Round of 16",
 		"team1": "Sweden",
-		"team2": "2nd Group E",
+		"team2": "Switzerland",
 		"score": "- : -",
 		"status": "Pending",
 		"details": ""
