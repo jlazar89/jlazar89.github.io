@@ -492,7 +492,7 @@
 		"team1": "Japan",
 		"team2": "Poland",
 		"score": "- : -",
-		"status": "Next",
+		"status": "Live",
 		"details": ""
 	},
 	
@@ -503,7 +503,7 @@
 		"team1": "Senegal",
 		"team2": "Colombia",
 		"score": "- : -",
-		"status": "Next",
+		"status": "Live",
 		"details": ""
 	},
 	
@@ -514,7 +514,7 @@
 		"team1": "England",
 		"team2": "Belgium",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
@@ -525,7 +525,7 @@
 		"team1": "Panama",
 		"team2": "Tunisia",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
