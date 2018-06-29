@@ -513,9 +513,9 @@
 		"round": "Round 3",
 		"team1": "England",
 		"team2": "Belgium",
-		"score": "- : -",
-		"status": "Next",
-		"details": ""
+		"score": "0 : 1",
+		"status": "Finish",
+		"details": "51' Adnan Januzaj (Belgium) Scores"
 	},
 	
 	{
@@ -524,9 +524,9 @@
 		"round": "Round 3",
 		"team1": "Panama",
 		"team2": "Tunisia",
-		"score": "- : -",
-		"status": "Next",
-		"details": ""
+		"score": "1 : 2",
+		"status": "Finish",
+		"details": "66' Wahbi Khazri (Tunisia) Scores\n51' Fakhreddine Ben Youssef (Tunisia) Scores\n33' Yassine Meriah (OG)"
 	},
 	
 	
@@ -537,7 +537,7 @@
 		"team1": "France",
 		"team2": "Argentina",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
@@ -548,7 +548,7 @@
 		"team1": "Uruguay",
 		"team2": "Portugal",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
@@ -589,7 +589,7 @@
 		"id" : "Game 54",
 		"date": "Tue 03.07.2018 00:00/Tue 03.07.18 12:00 AM",
 		"round": "Round of 16",
-		"team1": "1st Group G",
+		"team1": "Belgium",
 		"team2": "Japan",
 		"score": "- : -",
 		"status": "Pending",
@@ -612,7 +612,7 @@
 		"date": "Wed 04.07.2018 00:00/Wed 04.07.18 12:00 AM",
 		"round": "Round of 16",
 		"team1": "Columbia",
-		"team2": "2nd Group G",
+		"team2": "England",
 		"score": "- : -",
 		"status": "Pending",
 		"details": ""
