@@ -536,9 +536,9 @@
 		"round": "Round of 16",
 		"team1": "France",
 		"team2": "Argentina",
-		"score": "- : -",
-		"status": "Next",
-		"details": ""
+		"score": "4 : 3",
+		"status": "Finish",
+		"details": "90' Sergio Aguero (Argentina) Scores\n68' Kylian Mbappe Lottin (France) Scores\n64' Kylian Mbappe Lottin (France) Scores\n57' Benjamin Pavard (France) Scores\n41' Gabriel Mercado (Argentina) Scores\n41' Angel Di Maria (Argentina) Scores\n13'(P) Antoine Griezmann (France) Scores"
 	},
 	
 	{
@@ -548,7 +548,7 @@
 		"team1": "Uruguay",
 		"team2": "Portugal",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
@@ -624,7 +624,7 @@
 		"date": "Fri 06.07.2018 20:00/Fri 06.07.18 8:00 PM",
 		"round": "Quarter-finals",
 		"team1": "Winner R. of 16",
-		"team2": "Winner R. of 16",
+		"team2": "France",
 		"score": "- : -",
 		"status": "Pending",
 		"details": ""
