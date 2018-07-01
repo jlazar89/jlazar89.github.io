@@ -559,7 +559,7 @@
 		"team1": "Spain",
 		"team2": "Russia",
 		"score": "- : -",
-		"status": "Next",
+		"status": "Live",
 		"details": ""
 	},
 	
@@ -570,7 +570,7 @@
 		"team1": "Croatia",
 		"team2": "Denmark",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
