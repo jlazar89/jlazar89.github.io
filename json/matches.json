@@ -547,9 +547,9 @@
 		"round": "Round of 16",
 		"team1": "Uruguay",
 		"team2": "Portugal",
-		"score": "- : -",
-		"status": "Next",
-		"details": ""
+		"score": "2 : 1",
+		"status": "Finish",
+		"details": "62' Edinson Cavani (Uruguay) Scores\n55' Pepe (Portugal) Scores\n7' Edinson Cavani (Uruguay) Scores"
 	},
 	
 	{
@@ -559,7 +559,7 @@
 		"team1": "Spain",
 		"team2": "Russia",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
@@ -623,7 +623,7 @@
 		"id" : "Game 57",
 		"date": "Fri 06.07.2018 20:00/Fri 06.07.18 8:00 PM",
 		"round": "Quarter-finals",
-		"team1": "Winner R. of 16",
+		"team1": "Uruguay",
 		"team2": "France",
 		"score": "- : -",
 		"status": "Pending",
