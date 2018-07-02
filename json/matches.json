@@ -581,7 +581,7 @@
 		"team1": "Brazil",
 		"team2": "Mexico",
 		"score": "- : -",
-		"status": "Next",
+		"status": "Live",
 		"details": ""
 	},
 	
@@ -592,7 +592,7 @@
 		"team1": "Belgium",
 		"team2": "Japan",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
