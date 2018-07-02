@@ -569,9 +569,9 @@
 		"round": "Round of 16",
 		"team1": "Croatia",
 		"team2": "Denmark",
-		"score": "- : -",
-		"status": "Next",
-		"details": ""
+		"score": "1 : 1 (2 : 3) PSO",
+		"status": "Finish",
+		"details": "4'(P) Mario Mandzukic (Croatia) Scores\n1' Mathias Joergensen (Denmark) Scores"
 	},
 	
 	{
@@ -581,7 +581,7 @@
 		"team1": "Brazil",
 		"team2": "Mexico",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
@@ -634,8 +634,8 @@
 		"id" : "Game 58",
 		"date": "Sat 07.07.2018 00:00/Sat 07.07.18 12:00 AM",
 		"round": "Quarter-finals",
-		"team1": "Winner R. of 16",
-		"team2": "Winner R. of 16",
+		"team1": "Russia",
+		"team2": "Croatia",
 		"score": "- : -",
 		"status": "Pending",
 		"details": ""
