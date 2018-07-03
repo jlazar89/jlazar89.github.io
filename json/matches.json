@@ -581,7 +581,7 @@
 		"team1": "Brazil",
 		"team2": "Mexico",
 		"score": "2 : 0",
-		"status": "Live",
+		"status": "Finish",
 		"details": "89' Roberto Firmino (Brazil) Scores\n50' Neymar (Brazil) Scores"
 	},
 	
@@ -591,9 +591,9 @@
 		"round": "Round of 16",
 		"team1": "Belgium",
 		"team2": "Japan",
-		"score": "- : -",
-		"status": "Next",
-		"details": ""
+		"score": "3 : 2",
+		"status": "Finish",
+		"details": "90' Nacer Chadli (Belgium) Scores\n74' Marouane Fellaini (Belgium) Scores\n69' Jan Vertonghen (Belgium) Scores\n52' Takashi Inui (Japan) Scores\n48' Genki Haraguchi (Japan) Scores"
 	},
 	
 	{
@@ -603,7 +603,7 @@
 		"team1": "Sweden",
 		"team2": "Switzerland",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
@@ -634,8 +634,8 @@
 		"id" : "Game 58",
 		"date": "Sat 07.07.2018 00:00/Sat 07.07.18 12:00 AM",
 		"round": "Quarter-finals",
-		"team1": "Russia",
-		"team2": "Croatia",
+		"team1": "Brazil",
+		"team2": "Belgium",
 		"score": "- : -",
 		"status": "Pending",
 		"details": ""
@@ -654,10 +654,10 @@
 	
 	{
 		"id" : "Game 60",
-		"date": "Sun 08.07.2018 20:00/Sun 08.07.18 8:00 PM",
+		"date": "Sun 08.07.2018 20:00/Sun 08.07.18 12:00 AM",
 		"round": "Quarter-finals",
-		"team1": "Winner R. of 16",
-		"team2": "Winner R. of 16",
+		"team1": "Russia",
+		"team2": "Croatia",
 		"score": "- : -",
 		"status": "Pending",
 		"details": ""
