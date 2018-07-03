@@ -603,7 +603,7 @@
 		"team1": "Sweden",
 		"team2": "Switzerland",
 		"score": "1 : 0",
-		"status": "Live",
+		"status": "Finish",
 		"details": "68' Emil Forsberg (Sweden) Scores"
 	},
 	
@@ -614,7 +614,7 @@
 		"team1": "Colombia",
 		"team2": "England",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
