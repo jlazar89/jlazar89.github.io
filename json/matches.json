@@ -626,7 +626,7 @@
 		"team1": "Uruguay",
 		"team2": "France",
 		"score": "- : -",
-		"status": "Next",
+		"status": "Live",
 		"details": ""
 	},
 	
@@ -637,7 +637,7 @@
 		"team1": "Brazil",
 		"team2": "Belgium",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
