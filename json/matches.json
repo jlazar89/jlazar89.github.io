@@ -636,9 +636,9 @@
 		"round": "Quarter-finals",
 		"team1": "Brazil",
 		"team2": "Belgium",
-		"score": "- : -",
-		"status": "Next",
-		"details": ""
+		"score": "1 : 2",
+		"status": "Finish",
+		"details": "76' Renato Augusto (Brazil) Scores\n31' Kevin de Bruyne (Belgium) Scores\n13' Fernandinho (Own goal)"
 	},
 	
 	{
@@ -648,7 +648,7 @@
 		"team1": "Sweden",
 		"team2": "England",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
@@ -669,7 +669,7 @@
 		"date": "Wed 11.07.2018 00:00/Wed 11.07.18 12:00 AM",
 		"round": "Semi-finals",
 		"team1": "France",
-		"team2": "Winner QF1",
+		"team2": "Belgium",
 		"score": "- : -",
 		"status": "Pending",
 		"details": ""
