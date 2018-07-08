@@ -658,9 +658,9 @@
 		"round": "Quarter-finals",
 		"team1": "Russia",
 		"team2": "Croatia",
-		"score": "- : -",
-		"status": "Next",
-		"details": ""
+		"score": "2 : 2 (3 : 4) PSO",
+		"status": "Finish",
+		"details": "120' Mario Fernandes (Russia) Scores\n101' Domagoj Vida (Croatia) Scores\n39' Andrej Kramaric (Croatia) Scores\n31'Denis Cheryshev (Russia) Scores"
 	},
 	
 	
@@ -671,7 +671,7 @@
 		"team1": "France",
 		"team2": "Belgium",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
@@ -679,7 +679,7 @@
 		"id" : "Game 62",
 		"date": "Thu 12.07.2018 00:00/Thu 12.07.18 12:00 AM",
 		"round": "Semi-finals",
-		"team1": "Winner QF4",
+		"team1": "Croatia",
 		"team2": "England",
 		"score": "- : -",
 		"status": "Pending",
