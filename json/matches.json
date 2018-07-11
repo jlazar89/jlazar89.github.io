@@ -670,9 +670,9 @@
 		"round": "Semi-finals",
 		"team1": "France",
 		"team2": "Belgium",
-		"score": "- : -",
-		"status": "Next",
-		"details": ""
+		"score": "1 : 0",
+		"status": "Finish",
+		"details": "51' Samuel Umtiti (France) Scores"
 	},
 	
 	{
@@ -682,7 +682,7 @@
 		"team1": "Croatia",
 		"team2": "England",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
@@ -690,7 +690,7 @@
 		"id" : "Game 63",
 		"date": "Sat 14.07.2018 20:00/Sat 14.07.18 8:00 AM",
 		"round": "3rd Place Playoff",
-		"team1": "Loser SF1",
+		"team1": "Belgium",
 		"team2": "Loser SF2",
 		"score": "- : -",
 		"status": "Pending",
@@ -701,7 +701,7 @@
 		"id" : "Game 64",
 		"date": "Sun 15.07.2018 21:00/Sun 15.07.18 9:00 PM",
 		"round": "Final",
-		"team1": "Winner SF1",
+		"team1": "France",
 		"team2": "Winner SF2",
 		"score": "- : -",
 		"status": "Pending",
