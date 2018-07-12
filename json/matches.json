@@ -681,9 +681,9 @@
 		"round": "Semi-finals",
 		"team1": "Croatia",
 		"team2": "England",
-		"score": "- : -",
-		"status": "Next",
-		"details": ""
+		"score": "2 : 1",
+		"status": "Finish",
+		"details": "109' Ivan Perisic (Croatia) Scores\n68' Ivan Perisic (Croatia) Scores\n5' Kieran Trippier (England) Scores"
 	},
 	
 	{
@@ -691,9 +691,9 @@
 		"date": "Sat 14.07.2018 20:00/Sat 14.07.18 8:00 AM",
 		"round": "3rd Place Playoff",
 		"team1": "Belgium",
-		"team2": "Loser SF2",
+		"team2": "England",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	},
 	
@@ -702,7 +702,7 @@
 		"date": "Sun 15.07.2018 21:00/Sun 15.07.18 9:00 PM",
 		"round": "Final",
 		"team1": "France",
-		"team2": "Winner SF2",
+		"team2": "Croatia",
 		"score": "- : -",
 		"status": "Pending",
 		"details": ""
