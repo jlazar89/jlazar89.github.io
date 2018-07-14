@@ -693,7 +693,7 @@
 		"team1": "Belgium",
 		"team2": "England",
 		"score": "- : -",
-		"status": "Next",
+		"status": "Live",
 		"details": ""
 	},
 	
@@ -704,7 +704,7 @@
 		"team1": "France",
 		"team2": "Croatia",
 		"score": "- : -",
-		"status": "Pending",
+		"status": "Next",
 		"details": ""
 	}
 
