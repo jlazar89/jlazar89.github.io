@@ -7,6 +7,7 @@
 		"team1": "Russia",
 		"team2": "Saudi Arabia",
 		"score": "5 : 0",
+		"status": "Finish",
 		"details": "91' Golovin (Russia) Scores\n91' Chershev(Russia) Scores\n71' Artem (Russia) Scores\n43' Chershev(Russia) Scores!!\n12' Gazinskii (Russia) Scores!!" 
 	},
 
@@ -16,8 +17,9 @@
 		"round": "Round 1",
 		"team1": "Egypt",
 		"team2": "Uruguay",
-		"score": "- : -",
-		"details": ""
+		"score": "0 : 1",
+		"status": "Finish",
+		"details": "90' Gimenez (Uruguay) Scores"
 	},
 
 	{
@@ -26,8 +28,9 @@
 		"round": "Round 1",
 		"team1": "Morocco",
 		"team2": "Iran",
-		"score": "- : -",
-		"details": ""
+		"score": "0 : 1",
+		"status": "Finish",
+		"details": "90+5' Aziz Bouhaddouz (Iran) Scores"
 	},
 
 	{
@@ -36,8 +39,9 @@
 		"round": "Round 1",
 		"team1": "Portugal",
 		"team2": "Spain",
-		"score": "- : -",
-		"details": ""
+		"score": "3 : 3",
+		"status": "Finish",
+		"details": "88' C Ronaldo (Portugal) Scores\n55' Nacho (Spain) Scores\n55' Diego Costa (Spain) Scores\n44' C Ronaldo (Portugal) Scores\n24' Diego Costa (Spain) Socres\n4' C Ronaldo (Portugal) Scores"
 	},
 
 	{
@@ -46,8 +50,9 @@
 		"round": "Round 1",
 		"team1": "France",
 		"team2": "Australia",
-		"score": "- : -",
-		"details": ""
+		"score": "2 : 1",
+		"status": "Finish",
+		"details": "80' Paul Pogba (France) Scores\n62'(P) Mike Jedinak (Australia) scores\n58' Antoine Greizmann (France) Scores"
 	},
 
 	{
@@ -56,8 +61,9 @@
 		"round": "Round 1",
 		"team1": "Argentina",
 		"team2": "Iceland",
-		"score": "- : -",
-		"details": ""
+		"score": "1 : 1",
+		"status": "Finish",
+		"details": "23' Alfreo Finnbogason(Iceland) Scores\n19' Sergio Aguero(Argentina) Scores"
 	},
 	
 	{
@@ -66,8 +72,9 @@
 		"round": "Round 1",
 		"team1": "Peru",
 		"team2": "Denmark",
-		"score": "- : -",
-		"details": ""
+		"score": "0 : 1",
+		"status": "Finish",
+		"details": "59' Yussuf Poulsen (Denmark) Scores"
 	},
 	
 	{
@@ -76,8 +83,9 @@
 		"round": "Round 1",
 		"team1": "Croatia",
 		"team2": "Nigeria",
-		"score": "- : -",
-		"details": ""
+		"score": "2 : 0",
+		"status": "Finish",
+		"details": "71' (P) Luka Modric (Croatia) Scores\n32' Oghenekaro Etebo (Own Goal)"
 	},
 	
 	{
@@ -86,8 +94,9 @@
 		"round": "Round 1",
 		"team1": "Costa Rica",
 		"team2": "Serbia",
-		"score": "- : -",
-		"details": ""
+		"score": "0 : 1",
+		"status": "Finish",
+		"details": "56' Alexander Kolarov (Serbia) Scores"
 	},
 	
 	{
@@ -96,8 +105,9 @@
 		"round": "Round 1",
 		"team1": "Germany",
 		"team2": "Mexico",
-		"score": "- : -",
-		"details": ""
+		"score": "0 : 1",
+		"status": "Finish",
+		"details": "35' Hiving Lozano (Mexico) Scores"
 	},
 	
 	{
@@ -106,8 +116,9 @@
 		"round": "Round 1",
 		"team1": "Brazil",
 		"team2": "Switzerland",
-		"score": "- : -",
-		"details": ""
+		"score": "1 : 1",
+		"status": "Finish",
+		"details": "50' Steven Zuber (Switzerland) Scores\n20' Philippe Coutinho (Brazil) Scores"
 	},
 	
 	{
@@ -116,8 +127,9 @@
 		"round": "Round 1",
 		"team1": "Sweden",
 		"team2": "South Korea",
-		"score": "- : -",
-		"details": ""
+		"score": "1 : 0",
+		"status": "Finish",
+		"details": "65' A Granqvist (Sweden) Scores"
 	},
 	
 	{
@@ -126,8 +138,9 @@
 		"round": "Round 1",
 		"team1": "Belgium",
 		"team2": "Panama",
-		"score": "- : -",
-		"details": ""
+		"score": "3 : 0",
+		"status": "Finish",
+		"details": "75' 69' Romelu Lukalu (Belgium) Scores\n47' Dries Mertens (Belgium) Scores"
 	},
 	
 	{
@@ -136,8 +149,9 @@
 		"round": "Round 1",
 		"team1": "Tunisia",
 		"team2": "England",
-		"score": "- : -",
-		"details": ""
+		"score": "1 : 2",
+		"status": "Finish",
+		"details": "90+1'Henry Kane (England) Scores\n35' Ferjani Sassi (Tunisia) Scores\n11' Henry Kane (England) Scores"
 	},
 	
 	{
@@ -146,8 +160,9 @@
 		"round": "Round 1",
 		"team1": "Colombia",
 		"team2": "Japan",
-		"score": "- : -",
-		"details": ""
+		"score": "1 : 2",
+		"status": "Finish",
+		"details": "73' Osako (Japan) Scores\n39' J.Quintero (Colombia) Scores\n6' Shinji  Kagawa(Japan) Scores"
 	},
 	
 	{
@@ -156,8 +171,9 @@
 		"round": "Round 1",
 		"team1": "Poland",
 		"team2": "Senegal",
-		"score": "- : -",
-		"details": ""
+		"score": "1 : 2",
+		"status": "Finish",
+		"details": "86' Krychowiak (Poland) Scores\n60' M'Baye Niang (Senegal) Scores\n37' T. Clonek (Senegal) Scores"
 	},
 	
 
@@ -167,8 +183,9 @@
 		"round": "Round 2",
 		"team1": "Russia",
 		"team2": "Egypt",
-		"score": "- : -",
-		"details": ""
+		"score": "3 : 1",
+		"status": "Finish",
+		"details": "73'(P) M. Salah (Egypt) Scores\n62' Dzyuba (Russa) Scores\n59' Chersev (Russa) Scores\n47'(OG) A.Fathi"
 	},
 	
 	{
@@ -177,8 +194,9 @@
 		"round": "Round 2",
 		"team1": "Portugal",
 		"team2": "Morocco",
-		"score": "- : -",
-		"details": ""
+		"score": "1 : 0",
+		"status": "Finish",
+		"details": "4' C.Ronaldo (Portugal) Scores"
 	},
 	
 	{
@@ -187,8 +205,9 @@
 		"round": "Round 2",
 		"team1": "Uruguay",
 		"team2": "Saudi Arabia",
-		"score": "- : -",
-		"details": ""
+		"score": "1 : 0",
+		"status": "Finish",
+		"details": "23' Luis Suarez (Uruguay) Scores"
 	},
 	
 	{
@@ -197,8 +216,9 @@
 		"round": "Round 2",
 		"team1": "Iran",
 		"team2": "Spain",
-		"score": "- : -",
-		"details": ""
+		"score": "0 : 1",
+		"status": "Finish",
+		"details": "54' Diego Costa (Spain) Scores"
 	},
 	
 	{
@@ -207,8 +227,9 @@
 		"round": "Round 2",
 		"team1": "Denmark",
 		"team2": "Australia",
-		"score": "- : -",
-		"details": ""
+		"score": "1 : 1",
+		"status": "Finish",
+		"details": "38' M.Jedinak (Australia) Scores\n7' C. ErikSen (Denmark) Scores"
 	},
 	
 	{
@@ -217,8 +238,9 @@
 		"round": "Round 2",
 		"team1": "France",
 		"team2": "Peru",
-		"score": "- : -",
-		"details": ""
+		"score": "1 : 0",
+		"status": "Finish",
+		"details": "34' Kylian Mbappe (France) Scores"
 	},
 	
 	{
@@ -227,8 +249,9 @@
 		"round": "Round 2",
 		"team1": "Argentina",
 		"team2": "Croatia",
-		"score": "- : -",
-		"details": ""
+		"score": "0 : 3",
+		"status": "Finish",
+		"details": "90+1' Ivan Rakitić(Croatia) Scores\n80' Luka Modrić (Croatia) Scores\n58' Ante Rebić (Croatia) Scores"
 	},
 	
 	{
@@ -237,8 +260,9 @@
 		"round": "Round 2",
 		"team1": "Brazil",
 		"team2": "Costa Rica",
-		"score": "- : -",
-		"details": ""
+		"score": "2 : 0",
+		"status": "Finish",
+		"details": "90+7' Neymar (Brazil) scores\n90+1' Philippe Coutinho (Brazil) scores"
 	},
 	
 	{
@@ -247,8 +271,9 @@
 		"round": "Round 2",
 		"team1": "Nigeria",
 		"team2": "Iceland",
-		"score": "- : -",
-		"details": ""
+		"score": "2 : 0",
+		"status": "Finish",
+		"details": "75' Ahmed Musa (Nigeria) Scores\n49' Ahmed Musa (Nigeria) Scores"
 	},
 	
 	{
@@ -257,8 +282,9 @@
 		"round": "Round 2",
 		"team1": "Serbia",
 		"team2": "Switzerland",
-		"score": "- : -",
-		"details": ""
+		"score": "1 : 2",
+		"status": "Finish",
+		"details": "90' Xherdan Shaqiri (Switzerland)Scores\n52' Granit Xhaka (Switzerland)Scores\n5' Aleksandar Mitrović (Serbia) Scores"
 	},
 	
 	{
@@ -267,8 +293,9 @@
 		"round": "Round 2",
 		"team1": "Belgium",
 		"team2": "Tunisia",
-		"score": "- : -",
-		"details": ""
+		"score": "5 : 2",
+		"status": "Finish",
+		"details": "90+3' Wahbi Khazri (Tunisia) Scores\n90' Batshuayi (Belgium) Scores\n51' Eden Hazard (Belgium) Scores\n45+3' R. Lukaku (Belgium) Scores\n18' Bronn (Tunisia) Scores\n16' R. Lukaku (Belgium) Scores\n6'(P) Eden Hazard (Belgium) Scores"
 	},
 	
 	{
@@ -277,8 +304,9 @@
 		"round": "Round 2",
 		"team1": "South Korea",
 		"team2": "Mexico",
-		"score": "- : -",
-		"details": ""
+		"score": "1 : 2",
+		"status": "Finish",
+		"details": "90' Heung-Min Son (South Korea) Scores\n66' Javier Hernandez (Mexico) Scores\n26' Carlos Vela (Mexico) Scores"
 	},
 	
 	{
@@ -287,8 +315,9 @@
 		"round": "Round 2",
 		"team1": "Germany",
 		"team2": "Sweden",
-		"score": "- : -",
-		"details": ""
+		"score": "2 : 1",
+		"status": "Finish",
+		"details": "90' Toni Kroos (Germany) Scores\n48' Marco Reus(Germany) Scores\n32' Ola Tolvonen (Sweden) Scores"
 	},
 	
 	{
@@ -297,8 +326,9 @@
 		"round": "Round 2",
 		"team1": "England",
 		"team2": "Panama",
-		"score": "- : -",
-		"details": ""
+		"score": "6 : 1",
+		"status": "Finish",
+		"details": "78' Felipe Baloy (England) Scores\n60' Harry Kane (England) Scores\n45'(P) Harry Kane (England) Scores\n40' John Stones (England) Scores\n24' Jesse Lingard (England) Scores\n22'(P) Harry Kane (England) Scores\n8' John Stones (England) Scores"
 	},
 	
 	{
@@ -307,8 +337,9 @@
 		"round": "Round 2",
 		"team1": "Japan",
 		"team2": "Senegal",
-		"score": "- : -",
-		"details": ""
+		"score": "2 : 2",
+		"status": "Finish",
+		"details": "74' Keisuke Honda (Japan) Scorfes\n71' Moussa Wague (Senegal) Scores\n34' Takashi Inui (Japan) Scorfes\n11' Sadio Mane (Senegal) Scores"
 	},
 	
 	{
@@ -317,8 +348,9 @@
 		"round": "Round 2",
 		"team1": "Poland",
 		"team2": "Colombia",
-		"score": "- : -",
-		"details": ""
+		"score": "0 : 3",
+		"status": "Finish",
+		"details": "75' Juan Cuadrado (Columbia) Scores\n70' Radamel Falcao (Columbia) Scores\n40' Yerry Mina (Columbia) Scores"
 	},
 	
 	{
@@ -327,8 +359,9 @@
 		"round": "Round 3",
 		"team1": "Saudi Arabia",
 		"team2": "Egypt",
-		"score": "- : -",
-		"details": ""
+		"score": "2 : 1",
+		"status": "Finish",
+		"details": "90+5' Salem Al-Dawsari  (Saudi Arabia) Scores\n45' Salman Al-Fara (Saudi Arabia) Scores\n22' M.Salah (Egypt) Scores"
 	},
 	
 	{
@@ -337,8 +370,9 @@
 		"round": "Round 3",
 		"team1": "Uruguay",
 		"team2": "Russia",
-		"score": "- : -",
-		"details": ""
+		"score": "3 : 0",
+		"status": "Finish",
+		"details": "90' Edinson Cavani (Uruguay) Scores\n23' D laxalt(Uruguay) Scores\n10' Luis Suarez (Uruguay) Scores"
 	},
 	
 	{
@@ -347,8 +381,9 @@
 		"round": "Round 3",
 		"team1": "Iran",
 		"team2": "Portugal",
-		"score": "- : -",
-		"details": ""
+		"score": "1 : 1",
+		"status": "Finish",
+		"details": "90' Karim Ansarifard (Iran) Scores\n45' Ricardo Quaresma (Portugal) Scores"
 	},
 	
 	{
@@ -357,8 +392,9 @@
 		"round": "Round 3",
 		"team1": "Spain",
 		"team2": "Morocco",
-		"score": "- : -",
-		"details": ""
+		"score": "2 : 2",
+		"status": "Finish",
+		"details": "90' Iago Aspas (Spian) Scores\n81' Youssef En-Nesyri  (Morocco) Scores\n19' Isoc (Spain) Scores\n14' Khalid Boutaib (Morocco) Scores"
 	},
 	
 	{
@@ -367,8 +403,9 @@
 		"round": "Round 3",
 		"team1": "Australia",
 		"team2": "Peru",
-		"score": "- : -",
-		"details": ""
+		"score": "0 : 2",
+		"status": "Finish",
+		"details": "50' Jose Paolo Guerrero (Peru) Scores\n18' André Carrillo (Peru) Scores"
 	},
 	
 	{
@@ -377,7 +414,8 @@
 		"round": "Round 3",
 		"team1": "Denmark",
 		"team2": "France",
-		"score": "- : -",
+		"score": "0 : 0",
+		"status": "Finish",
 		"details": ""
 	},
 	
@@ -387,8 +425,9 @@
 		"round": "Round 3",
 		"team1": "Iceland",
 		"team2": "Croatia",
-		"score": "- : -",
-		"details": ""
+		"score": "1 : 2",
+		"status": "Finish",
+		"details": "90' Ivan Perisic (Croatia) Scores\n76'(P) Gylfi Sigurdsson\n53' Milan Badelj (Croatia) Scores"
 	},
 	
 	{
@@ -397,8 +436,9 @@
 		"round": "Round 3",
 		"team1": "Nigeria",
 		"team2": "Argentina",
-		"score": "- : -",
-		"details": ""
+		"score": "1 : 2",
+		"status": "Finish",
+		"details": "86' Marcos Rojo (Argentina) Scores\n51'(P) Victor Moses\n14' Lionel Messi (Argentina) Scores"
 	},
 	
 	{
@@ -407,8 +447,9 @@
 		"round": "Round 3",
 		"team1": "Mexico",
 		"team2": "Sweden",
-		"score": "- : -",
-		"details": ""
+		"score": "0 : 3",
+		"status": "Finish",
+		"details": "74' Edson Alvarez (Sweden) Scores\n62' Andreas Granqvist (Sweden) Scores\n50' Ludwig Augustinsson (Sweden) Scores"
 	},
 	
 	{
@@ -417,8 +458,9 @@
 		"round": "Round 3",
 		"team1": "South Korea",
 		"team2": "Germany",
-		"score": "- : -",
-		"details": ""
+		"score": "2 : 0",
+		"status": "Finish",
+		"details": "90+5' Young-Gwon Kim (South Korea) Scores\n90' Heung-Min Son (South Korea) Scores"
 	},
 	
 	{
@@ -427,8 +469,9 @@
 		"round": "Round 3",
 		"team1": "Serbia",
 		"team2": "Brazil",
-		"score": "- : -",
-		"details": ""
+		"score": "0 : 2",
+		"status": "Finish",
+		"details": "68' Paulinho (Brazil) Scores\n36' Paulinho (Brazil) Scores"
 	},
 	
 	{
@@ -437,8 +480,9 @@
 		"round": "Round 3",
 		"team1": "Switzerland",
 		"team2": "Costa Rica",
-		"score": "- : -",
-		"details": ""
+		"score": "2 : 2",
+		"status": "Finish",
+		"details": "90' Yann Sommer(OG) (Costa Rica) Scores\n88' Josip Drmic (Switzerland) Scores\n56' Kendall Waston (Costa Rica) Scores\n31' Blerim Dzemaili (Switzerland) Scores"
 	},
 	
 	{
@@ -447,8 +491,9 @@
 		"round": "Round 3",
 		"team1": "Japan",
 		"team2": "Poland",
-		"score": "- : -",
-		"details": ""
+		"score": "0 : 1",
+		"status": "Finish",
+		"details": "59'  Jan Bednarek (Poland) Scores"
 	},
 	
 	{
@@ -457,8 +502,9 @@
 		"round": "Round 3",
 		"team1": "Senegal",
 		"team2": "Colombia",
-		"score": "- : -",
-		"details": ""
+		"score": "0 : 1",
+		"status": "Finish",
+		"details": "74'  Yerry Mina (Columbia) Scores"
 	},
 	
 	{
@@ -467,8 +513,9 @@
 		"round": "Round 3",
 		"team1": "England",
 		"team2": "Belgium",
-		"score": "- : -",
-		"details": ""
+		"score": "0 : 1",
+		"status": "Finish",
+		"details": "51' Adnan Januzaj (Belgium) Scores"
 	},
 	
 	{
@@ -477,8 +524,9 @@
 		"round": "Round 3",
 		"team1": "Panama",
 		"team2": "Tunisia",
-		"score": "- : -",
-		"details": ""
+		"score": "1 : 2",
+		"status": "Finish",
+		"details": "66' Wahbi Khazri (Tunisia) Scores\n51' Fakhreddine Ben Youssef (Tunisia) Scores\n33' Yassine Meriah (OG)"
 	},
 	
 	
@@ -486,80 +534,88 @@
 		"id" : "Game 49",
 		"date": "Sat 30.06.2018 20:00/Sat 30.06.18 8:00 PM",
 		"round": "Round of 16",
-		"team1": "1st Group C",
-		"team2": "2nd Group D",
-		"score": "- : -",
-		"details": ""
+		"team1": "France",
+		"team2": "Argentina",
+		"score": "4 : 3",
+		"status": "Finish",
+		"details": "90' Sergio Aguero (Argentina) Scores\n68' Kylian Mbappe Lottin (France) Scores\n64' Kylian Mbappe Lottin (France) Scores\n57' Benjamin Pavard (France) Scores\n41' Gabriel Mercado (Argentina) Scores\n41' Angel Di Maria (Argentina) Scores\n13'(P) Antoine Griezmann (France) Scores"
 	},
 	
 	{
 		"id" : "Game 50",
 		"date": "Sun 01.07.2018 00:00/Sun 01.07.18 12:00 AM",
 		"round": "Round of 16",
-		"team1": "1st Group A",
-		"team2": "2nd Group B",
-		"score": "- : -",
-		"details": ""
+		"team1": "Uruguay",
+		"team2": "Portugal",
+		"score": "2 : 1",
+		"status": "Finish",
+		"details": "62' Edinson Cavani (Uruguay) Scores\n55' Pepe (Portugal) Scores\n7' Edinson Cavani (Uruguay) Scores"
 	},
 	
 	{
 		"id" : "Game 51",
 		"date": "Sun 01.07.2018 20:00/Sun 01.07.18 8:00 PM",
 		"round": "Round of 16",
-		"team1": "1st Group B",
-		"team2": "2nd Group A",
-		"score": "- : -",
-		"details": ""
+		"team1": "Spain",
+		"team2": "Russia",
+		"score": "1 : 1 (3 : 4) PSO",
+		"status": "Finish",
+		"details": "41'(P) Artem Dzyuba (Russia) Scores\n12' Sergei Ignashevich (Spain) Scores"
 	},
 	
 	{
 		"id" : "Game 52",
 		"date": "Mon 02.07.2018 00:00/Mon 02.07.18 12:00 AM",
 		"round": "Round of 16",
-		"team1": "1st Group D",
-		"team2": "2nd Group C",
-		"score": "- : -",
-		"details": ""
+		"team1": "Croatia",
+		"team2": "Denmark",
+		"score": "1 : 1 (2 : 3) PSO",
+		"status": "Finish",
+		"details": "4'(P) Mario Mandzukic (Croatia) Scores\n1' Mathias Joergensen (Denmark) Scores"
 	},
 	
 	{
 		"id" : "Game 53",
 		"date": "Mon 02.07.2018 20:00/Mon 02.07.18 8:00 PM",
 		"round": "Round of 16",
-		"team1": "1st Group E",
-		"team2": "2nd Group F",
-		"score": "- : -",
-		"details": ""
+		"team1": "Brazil",
+		"team2": "Mexico",
+		"score": "2 : 0",
+		"status": "Finish",
+		"details": "89' Roberto Firmino (Brazil) Scores\n50' Neymar (Brazil) Scores"
 	},
 	
 	{
 		"id" : "Game 54",
 		"date": "Tue 03.07.2018 00:00/Tue 03.07.18 12:00 AM",
 		"round": "Round of 16",
-		"team1": "1st Group G",
-		"team2": "2nd Group H",
-		"score": "- : -",
-		"details": ""
+		"team1": "Belgium",
+		"team2": "Japan",
+		"score": "3 : 2",
+		"status": "Finish",
+		"details": "90' Nacer Chadli (Belgium) Scores\n74' Marouane Fellaini (Belgium) Scores\n69' Jan Vertonghen (Belgium) Scores\n52' Takashi Inui (Japan) Scores\n48' Genki Haraguchi (Japan) Scores"
 	},
 	
 	{
 		"id" : "Game 55",
 		"date": "Tue 03.07.2018 20:00/Tue 03.07.18 8:00 PM",
 		"round": "Round of 16",
-		"team1": "1st Group F",
-		"team2": "2nd Group E",
-		"score": "- : -",
-		"details": ""
+		"team1": "Sweden",
+		"team2": "Switzerland",
+		"score": "1 : 0",
+		"status": "Finish",
+		"details": "68' Emil Forsberg (Sweden) Scores"
 	},
 	
 	{
 		"id" : "Game 56",
 		"date": "Wed 04.07.2018 00:00/Wed 04.07.18 12:00 AM",
 		"round": "Round of 16",
-		"team1": "1st Group H",
-		"team2": "2nd Group G",
-		"score": "- : -",
-		"details": ""
+		"team1": "Colombia",
+		"team2": "England",
+		"score": "1 : 1 (3 : 4) PSO",
+		"status": "Finish",
+		"details": "90+3' Yerry mina (Colombia) Scores\n57' Harry Kane (England) Scores"
 	},
 	
 	
@@ -567,40 +623,44 @@
 		"id" : "Game 57",
 		"date": "Fri 06.07.2018 20:00/Fri 06.07.18 8:00 PM",
 		"round": "Quarter-finals",
-		"team1": "Winner R. of 16",
-		"team2": "Winner R. of 16",
-		"score": "- : -",
-		"details": ""
+		"team1": "Uruguay",
+		"team2": "France",
+		"score": "0 : 2",
+		"status": "Finish",
+		"details": "63' Antoine Griezmann (France) Scores\n40' Raphael Varane (France) Scores"
 	},
 	
 	{
 		"id" : "Game 58",
 		"date": "Sat 07.07.2018 00:00/Sat 07.07.18 12:00 AM",
 		"round": "Quarter-finals",
-		"team1": "Winner R. of 16",
-		"team2": "Winner R. of 16",
-		"score": "- : -",
-		"details": ""
+		"team1": "Brazil",
+		"team2": "Belgium",
+		"score": "1 : 2",
+		"status": "Finish",
+		"details": "76' Renato Augusto (Brazil) Scores\n31' Kevin de Bruyne (Belgium) Scores\n13' Fernandinho (Own goal)"
 	},
 	
 	{
 		"id" : "Game 59",
 		"date": "Sat 07.07.2018 20:00/Sat 07.07.18 8:00 PM",
 		"round": "Quarter-finals",
-		"team1": "Winner R. of 16",
-		"team2": "Winner R. of 16",
-		"score": "- : -",
-		"details": ""
+		"team1": "Sweden",
+		"team2": "England",
+		"score": "0 : 1",
+		"status": "Finish",
+		"details": "59' Harry Maguire (England) Scores\n30' Harry Maguire (England) Scores"
 	},
 	
 	{
 		"id" : "Game 60",
-		"date": "Sun 08.07.2018 20:00/Sun 08.07.18 8:00 PM",
+		"date": "Sun 08.07.2018 00:00/Sun 08.07.18 12:00 AM",
 		"round": "Quarter-finals",
-		"team1": "Winner R. of 16",
-		"team2": "Winner R. of 16",
-		"score": "- : -",
-		"details": ""
+		"team1": "Russia",
+		"team2": "Croatia",
+		"score": "2 : 2 (3 : 4) PSO",
+		"status": "Finish",
+		"details": "120' Mario Fernandes (Russia) Scores\n101' Domagoj Vida (Croatia) Scores\n39' Andrej Kramaric (Croatia) Scores\n31'Denis Cheryshev (Russia) Scores"
 	},
 	
 	
@@ -608,40 +668,44 @@
 		"id" : "Game 61",
 		"date": "Wed 11.07.2018 00:00/Wed 11.07.18 12:00 AM",
 		"round": "Semi-finals",
-		"team1": "Winner QF2",
-		"team2": "Winner QF1",
-		"score": "- : -",
-		"details": ""
+		"team1": "France",
+		"team2": "Belgium",
+		"score": "1 : 0",
+		"status": "Finish",
+		"details": "51' Samuel Umtiti (France) Scores"
 	},
 	
 	{
 		"id" : "Game 62",
 		"date": "Thu 12.07.2018 00:00/Thu 12.07.18 12:00 AM",
 		"round": "Semi-finals",
-		"team1": "Winner QF4",
-		"team2": "Winner QF3",
-		"score": "- : -",
-		"details": ""
+		"team1": "Croatia",
+		"team2": "England",
+		"score": "2 : 1",
+		"status": "Finish",
+		"details": "109' Ivan Perisic (Croatia) Scores\n68' Ivan Perisic (Croatia) Scores\n5' Kieran Trippier (England) Scores"
 	},
 	
 	{
 		"id" : "Game 63",
 		"date": "Sat 14.07.2018 20:00/Sat 14.07.18 8:00 AM",
 		"round": "3rd Place Playoff",
-		"team1": "Loser SF1",
-		"team2": "Loser SF2",
-		"score": "- : -",
-		"details": ""
+		"team1": "Belgium",
+		"team2": "England",
+		"score": "1 : 0",
+		"status": "Finish",
+		"details": "82' Eden Hazard  (Belgium) Scores\n4' Thomas Meunie (Belgium) Scores"
 	},
 	
 	{
 		"id" : "Game 64",
 		"date": "Sun 15.07.2018 21:00/Sun 15.07.18 9:00 PM",
 		"round": "Final",
-		"team1": "Winner SF1",
-		"team2": "Winner SF2",
-		"score": "- : -",
-		"details": ""
+		"team1": "France",
+		"team2": "Croatia",
+		"score": "4 : 2",
+		"status": "Finish",
+		"details": "69' Mario Mandzukic (Croatia) Scores\n65' Mbappe (France) Scores\n59' Paul Pogba (France) Scores\n38' (P) Antoine Griezmann (France) Scores\n28' Ivan Perisic (Croatia) Scores\n18' Mario Mandzukic (OG) France Scores"
 	}
 
 ]
