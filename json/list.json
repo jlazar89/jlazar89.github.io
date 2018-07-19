@@ -226,3 +226,17 @@ Main_Category
 "98": 5,
 "99": 7
 }
+
+
+<?php
+$ignoreArray = array(".","..");
+$path = dirname(__FILE__);
+$dirDetail = scandir($path);
+$dirDetail = array_diff($dirDetail,$ignoreArray);
+foreach($dirDetail as $dirName){
+if(is_dir($path.'/'.$dirName)){
+$innerDir = scandir($path.'/'.$dirName);
+$innerDir = array_diff($innerDir,$ignoreArray);
+echo $dirName."(".count($innerDir).")<br>";
+}
+}
