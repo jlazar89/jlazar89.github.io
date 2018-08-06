@@ -240,3 +240,44 @@ $innerDir = array_diff($innerDir,$ignoreArray);
 echo $dirName."(".count($innerDir).")<br>";
 }
 }
+
+
+
+//Links
+Firestore Android
+https://codelabs.developers.google.com/codelabs/firestore-android/
+
+Room Database Tutorial
+https://codelabs.developers.google.com/codelabs/android-room-with-a-view/
+
+Unsplash Documentation
+https://unsplash.com/documentation#list-photos
+
+Unsplash Github
+https://github.com/KeenenCharles/AndroidUnplash
+
+Unsplash Resplash
+https://github.com/b-lam/Resplash
+
+Mysql Python connector
+http://www.mysqltutorial.org/getting-started-mysql-python-connector/
+
+Python Rest Api Beginner
+https://www.codementor.io/sagaragarwal94/building-a-basic-restful-api-in-python-58k02xsiq
+
+PhotoEditor Sdk
+https://github.com/Polarrco/PolarrPhotoEditorAndroidSDK
+
+PhotoEditor (Ed Stark)
+https://android-arsenal.com/details/1/6736
+
+Udacity nanodegrees
+https://github.com/mikesprague/udacity-nanodegrees#data-analyst-nanodegree
+
+Proguard Hide methods
+https://rammic.github.io/2015/07/28/hiding-secrets-in-android-apps/
+Mod Apk
+https://causeyourestuck.io/2016/02/04/decompile-android-application-hack/
+
+Firebase File Listing from Storage
+http://www.zoftino.com/firebase-cloud-storage-upload-download-delete-files-android-example
